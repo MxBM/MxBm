@@ -1,4 +1,4 @@
-Hi 👋 My name is Brian Melgar
+Hi! My name is Brian Melgar
 =============================
 
 Full Stack Developer
